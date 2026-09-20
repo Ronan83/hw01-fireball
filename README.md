@@ -2,7 +2,7 @@
 
 A falling fireball built from a single icosphere, deformed and coloured entirely in GLSL.
 
-**Live demo:** https://ronan83.github.io/hw01-fireball
+[Live Demo](https://ronan83.github.io/hw01-fireball)
 
 <table>
   <tr>
